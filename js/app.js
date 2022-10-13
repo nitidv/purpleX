@@ -1,6 +1,6 @@
 // 1. Adidas Yeezy
 //Add an event listener to the Adidas Brand element (id of brand1) that will toggle the description of the shoe when clicked.
-
+//test
 
 // 2. Adidas x Allbirds
 //Add an event listener to the Adidas x AllbirdsBrand element (id of brand2) that will toggle the description of the shoe when clicked.
